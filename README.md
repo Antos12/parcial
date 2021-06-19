@@ -1,7 +1,5 @@
 # Parcial NodeJS
-## Por Matias Cantarutti (19/06/2021) 2º1
-![Imagen el diagrama en Workbench](https://raw.githubusercontent.com/Matias-C-tt/Parcial_Carrito-nodejs/main/Diagrama%20workbench.png)
-
+##  2º1 Antonella Guarnieri
 ---
 ## npm init -y
 ---
